@@ -2,6 +2,8 @@
 
 Este aplicativo de desktop, desenvolvido em Kotlin, foi criado especificamente para otimizar e agilizar processos e gerenciamento em uma empresa. Oferece uma interface intuitiva e eficiente para a geração de relatórios detalhados, facilitando o monitoramento e a análise das atividades.
 
+https://github.com/marcelo-juncken/afab-app-kotlin/assets/24771425/917f6671-964b-4dab-b182-6dee359e0729
+
 ### Funcionalidades Chave
 
 - **Geração de Relatórios Personalizados:** Os usuários podem criar e salvar templates de relatórios, permitindo a rápida geração de relatórios padronizados e customizados de acordo com as necessidades específicas dos usuários.
@@ -25,5 +27,6 @@ Este aplicativo de desktop, desenvolvido em Kotlin, foi criado especificamente p
 - Clean Architecture: arquitetura limpa que assegura a modularidade e facilidade de manutenção do código.
 - JNA (Java Native Access) : integração com bibliotecas nativas
 
-https://github.com/marcelo-juncken/afab-app-kotlin/assets/24771425/d59048f3-3481-46fb-9a83-63ce4014d440
+
+
 
